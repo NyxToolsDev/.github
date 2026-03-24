@@ -31,6 +31,6 @@ We build focused, production-ready tools for developers working with Claude Code
 
 ---
 
-Built with precision. Shipped with purpose.
+Developer tools that work in the dark so you don't have to.
 
 NyxTools · LEW Enterprises LLC
