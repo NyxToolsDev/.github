@@ -1,36 +1,37 @@
 # NyxTools
 
-**Developer tools and healthcare IT solutions.**
+**Healthcare AI tools and developer solutions.**
 
-We build focused, production-ready tools for developers working with Claude Code, MCP servers, and AI-powered workflows — plus specialized solutions for healthcare IT professionals navigating AI adoption and system governance.
+We build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus open-source MCP servers and developer productivity tools for Claude Code.
 
-## Products
+## Healthcare IT
 
-### Developer Tools
-- **Claude Code Hooks Library** — Pre-built lifecycle hooks that automate typechecking, linting, security scanning, and quality gates
-- **CLAUDE.md Pro Pack** — 20 domain-specific CLAUDE.md templates with matching rule files and custom skills
-- **Claude Cost Dashboard** — Visualize Claude API spend by project, model, and time period with budget alerts
-- **Claude Memory Manager** — Cross-session memory for Claude Code with semantic search and context injection
-
-### MCP Servers
-- **Calendly MCP Server** — Manage your Calendly schedule with natural language in Claude
-- **QuickBooks MCP Server** — Ask questions about your books in plain English via Claude
-- **DICOM/HL7 MCP Server** — Healthcare integration assistant for DICOM tags, HL7 parsing, and FHIR mapping
-
-### AI Workflow Tools
-- **Make.com/n8n Workflow Kit** — 12 pre-built Claude AI automation workflows
-- **CrewAI Production Crew Packs** — 8 ready-to-deploy multi-agent crew configurations
-
-### Healthcare IT
-- **Healthcare AI Governance Kit** — Complete AI governance bundle for healthcare organizations (policies, training, vendor evaluation, incident response)
+- **[Healthcare AI Governance Kit](https://nyxtools.gumroad.com)** — Complete AI governance bundle: policies, training, vendor evaluation, incident response, board-ready strategy. The only healthcare-specific AI governance product under $500. Aligned with HIPAA, Colorado AI Act, EU AI Act, and NIST AI RMF.
+- **[DICOM/HL7/FHIR Interoperability MCP Server](https://github.com/NyxToolsDev/dicom-hl7-mcp-server)** — The only MCP server bridging DICOM, HL7v2, and FHIR. Tag lookup, message parsing, cross-standard mapping, Mirth channel generation, and vendor private tag decoding. Built with 19 years of PACS/RIS integration experience.
 - **Healthcare IT Decommissioning Toolkit** — AI-powered documentation for legacy system migration and decommissioning
 
-### Chrome Extensions
-- **Claude Power Tools** — Session manager, prompt library, and keyboard shortcuts for Claude.ai
-- **AI Chat Vault** — Cross-platform AI conversation backup and search
+## MCP Servers (Open Source)
+
+- **[DICOM/HL7 MCP Server](https://github.com/NyxToolsDev/dicom-hl7-mcp-server)** — Healthcare interoperability from Claude (`pip install dicom-hl7-mcp`)
+- **[Calendly MCP Server](https://github.com/NyxToolsDev/calendly-mcp-server)** — Calendar management from Claude (`pip install calendly-mcp`)
+- **[QuickBooks MCP Server](https://github.com/NyxToolsDev/quickbooks-mcp-server)** — Financial queries from Claude (`pip install quickbooks-mcp`)
+- **[Claude Memory Manager](https://github.com/NyxToolsDev/claude-memory-manager)** — Cross-session memory (`pip install claude-memory-manager`)
+
+## Developer Tools
+
+- **[CLAUDE.md Pro Pack](https://nyxtools.gumroad.com)** — 20 domain-specific templates including 5 healthcare IT templates (HIPAA, HL7/FHIR, medical device, clinical trials, telehealth)
+- **Claude Code Hooks Library** — Pre-built lifecycle hooks for typechecking, linting, and security scanning
+- **Make.com/n8n Workflow Kit** — Pre-built Claude AI automation workflows
+- **CrewAI Production Crew Packs** — Ready-to-deploy multi-agent crew configurations
+
+## Free Resources
+
+- **[CLAUDE.md Starter Template](https://github.com/NyxToolsDev/claude-md-starter)** — Free general-purpose template for any project
+- **[MCP Server Template](https://github.com/NyxToolsDev/mcp-server-template)** — Build your first Python MCP server in 30 minutes
+- **[Awesome Claude Code](https://github.com/NyxToolsDev/awesome-claude-code)** — Curated resources, tips, and tools
 
 ---
 
-Developer tools that work in the dark so you don't have to.
+Built with 19 years of healthcare IT expertise. Shipped with purpose.
 
 NyxTools · LEW Enterprises LLC
