@@ -2,11 +2,11 @@
 
 **Healthcare AI tools and developer solutions.**
 
-I build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus code quality scanners, developer productivity tools and a few games just for funsies. 
+We build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus code quality scanners and developer productivity tools.
 
 ## Research
 
-- **[Confident Fabrication Eval](https://github.com/NyxToolsDev/confident-fabrication-eval)** — Measuring how often LLMs confidently fabricate on healthcare interoperability questions (HL7 v2, DICOM, FHIR). 50 practitioner-verified questions, 4 models, 200 graded responses. Headline finding so far: no model ever abstained, and 38 of 39 wrong answers came at full confidence. Open methodology, raw data committed.
+- **[Confident Fabrication Eval](https://github.com/NyxToolsDev/confident-fabrication-eval)** — Measuring how often LLMs confidently fabricate on healthcare interoperability questions (HL7 v2, DICOM, FHIR). 50 practitioner-verified questions, 4 models, 200 graded responses. Headline finding so far: no model ever abstained, and 39 of 40 wrong answers came at full confidence. Open methodology, raw data committed.
 
 ## Healthcare IT
 
