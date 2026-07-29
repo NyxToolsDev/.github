@@ -2,7 +2,7 @@
 
 **Healthcare AI tools and developer solutions.**
 
-We build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus code quality scanners and developer productivity tools.
+I build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus code quality scanners, developer productivity tools and games for funsies. 
 
 ## Research
 
