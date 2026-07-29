@@ -37,6 +37,6 @@ We build tools for healthcare IT professionals navigating AI adoption — govern
 
 ---
 
-Built with 19 years of healthcare IT expertise. Shipped with purpose.
+Built with 16 years of healthcare IT expertise. Shipped with purpose.
 
 NyxTools · LEW Enterprises LLC
