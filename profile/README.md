@@ -4,6 +4,10 @@
 
 We build tools for healthcare IT professionals navigating AI adoption — governance, interoperability, and compliance — plus code quality scanners and developer productivity tools.
 
+## Research
+
+- **[Confident Fabrication Eval](https://github.com/NyxToolsDev/confident-fabrication-eval)** — Measuring how often LLMs confidently fabricate on healthcare interoperability questions (HL7 v2, DICOM, FHIR). 50 practitioner-verified questions, 4 models, 200 graded responses. Headline finding so far: no model ever abstained, and 38 of 39 wrong answers came at full confidence. Open methodology, raw data committed.
+
 ## Healthcare IT
 
 - **[Healthcare AI Governance Kit](https://nyxtools.gumroad.com)** — Complete AI governance bundle: 8 templates covering policies, training, vendor evaluation, incident response, and board-ready strategy. Aligned with HIPAA, Colorado AI Act, EU AI Act, and NIST AI RMF. $249/$149.
@@ -30,13 +34,22 @@ We build tools for healthcare IT professionals navigating AI adoption — govern
 
 ## Free Resources
 
+- **[Healthcare AI Governance Checklist](https://github.com/NyxToolsDev/healthcare-ai-governance-checklist)** — 40-item self-assessment for healthcare AI governance readiness
+- **[Healthcare AI Vendor QuickScreen](https://github.com/NyxToolsDev/healthcare-ai-vendor-quickscreen)** — 15-minute pass/fail vendor screen for healthcare AI tools
+- **[HIPAA Prompt Safety Quick Reference](https://github.com/NyxToolsDev/hipaa-prompt-safety-quickref)** — Printable prompt-safety card for healthcare staff using AI
 - **[Vibe Code Check](https://github.com/NyxToolsDev/vibe-check)** — 5 of 6 scan categories completely free (`pip install vibe-code-check`)
 - **[CLAUDE.md Starter Template](https://github.com/NyxToolsDev/claude-md-starter)** — Free general-purpose template for any project
 - **[MCP Server Template](https://github.com/NyxToolsDev/mcp-server-template)** — Build your first Python MCP server in 30 minutes
 - **[Awesome Claude Code](https://github.com/NyxToolsDev/awesome-claude-code)** — Curated resources, tips, and tools
 
+## Games
+
+The Grid Down trilogy — the grid failed at 4:17 PM on a Tuesday. Browser-playable, free.
+
+- **[Grid Down](https://nyxtoolsdev.github.io/grid-down-game/)** — Text-based survival simulation. Manage your household through the blackout. ([source](https://github.com/NyxToolsDev/grid-down-game))
+- **[Grid Down: Get Home](https://nyxtoolsdev.github.io/grid-down-get-home/)** — Game Boy-style survival adventure. You are 38 miles from home. ([source](https://github.com/NyxToolsDev/grid-down-get-home))
+- **[Grid Down: Black Start](https://nyxtoolsdev.github.io/grid-down-black-start/)** — Turn-based grid-restoration strategy. Now bring it back. ([source](https://github.com/NyxToolsDev/grid-down-black-start))
+
 ---
 
 Built with 16 years of healthcare IT expertise. Shipped with purpose.
-
-NyxTools · LEW Enterprises LLC
